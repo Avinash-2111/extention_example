@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="app\design\frontend\magentotheme\luma\media\" />
+    <Folder Include="app\design\frontend\magentotheme\luma\etc\" />
+    <Folder Include="app\design\frontend\magentotheme\luma\i18n\" />
+    <Folder Include="app\design\frontend\magentotheme\luma\templates\" />
+    <Folder Include="app\design\frontend\magentotheme\luma\web\" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,5 @@
 ﻿{
-  "name": "eShop/module",
+  "name": "vendor-eshop/module-connector",
   "description": "Connecting To eCommerce",
   "type": "magento2-module",
   "version": "0.1.0",
@@ -22,7 +22,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "eShop/module": ""
+      "vendor-eshop/module-connector": ""
     }
   }
 }
